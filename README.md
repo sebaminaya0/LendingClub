@@ -18,7 +18,7 @@ For this project, I was interested in using lendingclub.com data from 2007-2010 
 - ¿Which are the purposes that tend to be more profitable?
 - ¿Can we predict which loans will be fully paid?
 
-This dataset ([source](https://www.kaggle.com/itssuru/loan-data)) consists of data from almost 10,000 borrowers that took loans - with some paid back and others still in progress. It was extracted from lendingclub.com which is an organization that connects borrowers with investors. We've included a few suggested questions at the end of this template to help you get started.
+This dataset ([source](https://www.kaggle.com/itssuru/loan-data)) consists of data from almost 10,000 borrowers that took loans - with some paid back and others still in progress. It was extracted from lendingclub.com which is an organization that connects borrowers with investors.
 
 ## File Descriptions <a name="files"></a>
 
