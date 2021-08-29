@@ -12,7 +12,7 @@ There should be no necessary libraries to run the code here beyond the Anaconda 
 
 ## Project Motivation<a name="motivation"></a>
 
-For this project, I was interestested in using lendingclub.com data from 2007-2010 to better understand:
+For this project, I was interested in using lendingclub.com data from 2007-2010 to better understand:
 
 - ¿How long it takes for users to pay back their loans?
 - ¿Which are the purposes that tend to be more profitable?
