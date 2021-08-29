@@ -26,7 +26,7 @@ There is 1 notebook available here to showcase work related to the questions of 
 
 ## Results<a name="results"></a>
 
-The main findings of the code can be found at the post available [here]().
+The main findings of the code can be found at the post available [here](https://medium.com/@sebastian.minaya1998/this-is-why-having-a-working-framework-will-make-you-a-better-data-professional-c0e60e1d3a38).
 
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 
